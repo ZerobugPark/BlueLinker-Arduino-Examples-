@@ -1,5 +1,7 @@
 # BlueLinker 아두이노 예제
 
+> 🌏 **다른 언어로 읽기**: [English](./README.md)
+
 BlueLinker iOS 앱을 위한 아두이노 예제 모음 - BLE(Bluetooth Low Energy)를 통해 하드웨어를 제어하세요.
 
 ## 📱 BlueLinker란?
