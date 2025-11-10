@@ -1,4 +1,5 @@
 # LED Control Example
+> 🌏 **Read this in other languages**: [한국어 (Korean)](./README.ko.md)
 
 Control an LED on/off via Bluetooth Low Energy using the BlueLinker app.
 
