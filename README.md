@@ -45,4 +45,3 @@ MIT License
 
 ---
 
-Made with ❤️ for Arduino and iOS developers
