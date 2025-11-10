@@ -1,5 +1,7 @@
 # BlueLinker Arduino Examples
 
+> 🌏 **Read this in other languages**: [한국어 (Korean)](./README.ko.md)
+
 Collection of Arduino examples for the BlueLinker iOS app - control hardware via Bluetooth Low Energy (BLE).
 
 ## 📱 About BlueLinker
