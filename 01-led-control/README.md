@@ -7,6 +7,8 @@ Control an LED on/off via Bluetooth Low Energy using the BlueLinker app.
 
 This example demonstrates how to control an LED remotely via BLE commands. The LED can be turned on with the "LED_ON" command and off with the "LED_OFF" command sent from the BlueLinker iOS app.
 
+<img src="https://github.com/user-attachments/assets/34d81e27-233f-468f-9a99-52b7b2e4d657" width="350"/>  
+
 ## 🔧 Components
 
 - Arduino board (Uno, Nano, etc.)
