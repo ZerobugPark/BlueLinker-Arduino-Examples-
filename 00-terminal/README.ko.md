@@ -6,8 +6,10 @@
 
 ## 📝 설명
 
-이 예제는 BlueLinker 앱과 아두이노 간의 BLE를 통한 양방향 시리얼 통신을 보여줍니다. 앱에서 보낸 모든 데이터가 아두이노 Serial Monitor에 나타나고, Serial Monitor에서 보낸 모든 데이터가 앱에 나타납니다.
+이 예제는 BlueLinker 앱과 아두이노 간의 BLE를 통한 양방향 시리얼 통신을 보여줍니다. 앱에서 보낸 모든 데이터가 아두이노 Serial Monitor에 나타나고, Serial Monitor에서 보낸 모든 데이터가 앱에 나타납니다.  
+
 <img src="https://github.com/user-attachments/assets/88a4278b-9ee5-4f06-b079-c5ab01babc60" width="350"/>
+
 ## 🔧 구성 요소
 
 - 아두이노 보드 (Uno, Nano 등)
