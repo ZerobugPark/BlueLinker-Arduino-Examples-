@@ -8,6 +8,8 @@ BlueLinker 앱을 사용하여 Bluetooth Low Energy로 LED를 켜고 끌 수 있
 
 이 예제는 BLE 명령을 통해 원격으로 LED를 제어하는 방법을 보여줍니다. BlueLinker iOS 앱에서 "LED_ON" 명령으로 LED를 켜고 "LED_OFF" 명령으로 끌 수 있습니다.
 
+<img src="https://github.com/user-attachments/assets/34d81e27-233f-468f-9a99-52b7b2e4d657" width="350"/>  
+
 ## 🔧 구성 요소
 
 - 아두이노 보드 (Uno, Nano 등)
