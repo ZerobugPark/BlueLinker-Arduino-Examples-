@@ -8,6 +8,8 @@ Basic Bluetooth Low Energy communication using a terminal interface. Send and re
 
 This example demonstrates bidirectional serial communication between the BlueLinker app and Arduino via BLE. Any data sent from the app appears in the Arduino Serial Monitor, and any data sent from the Serial Monitor appears in the app.
 
+| <img src="https://github.com/user-attachments/assets/88a4278b-9ee5-4f06-b079-c5ab01babc60" width="350"/> | 
+
 ## 🔧 Components
 
 - Arduino board (Uno, Nano, etc.)
